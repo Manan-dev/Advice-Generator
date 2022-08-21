@@ -2,6 +2,8 @@
 
 ### _This Project was created to practice fetching data from an api using ReactJS and responsive design using CSS_
 
+* Api: https://api.adviceslip.com/
+
 ## To run the advice generator locally
 
 ### Step 1
@@ -23,3 +25,5 @@
 
 -   The page will reload when you make changes.\
      You may also see any lint errors in the console.
+
+### Credit to [Frontendmentor.io](https://www.frontendmentor.io) for project designs
