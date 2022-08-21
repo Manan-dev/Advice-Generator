@@ -86,3 +86,21 @@ body {
 	left: 18px;
 	font-size: 30px;
 }
+
+.footer:hover,
+.dice:hover {
+	cursor: pointer;
+}
+
+.footer:hover {
+	animation: rotation 5s infinite linear;
+}
+
+@keyframes rotation {
+	from {
+		transform: rotate(0deg);
+	}
+	to {
+		transform: rotate(359deg);
+	}
+}
