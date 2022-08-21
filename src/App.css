@@ -26,8 +26,7 @@ body {
 }
 
 .container {
-	height: 40vh;
-	width: 90%;
+	height: 50vh;
 	max-width: 24em;
 	background-color: var(--dark-grayish);
 	padding: 0 1em;
