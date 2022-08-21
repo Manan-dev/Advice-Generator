@@ -1,6 +1,6 @@
 ## Link to the deployed [Advice Generator](https://random-adviceme.netlify.app/)
 
-### _This Project is using vite build tool to create a ReactJS app_
+### _This Project was created to practice fetching data from an api using ReactJS and responsive design using CSS_
 
 ## To run the advice generator locally
 
